@@ -18,6 +18,7 @@ It aggregates thousands of news articles from multiple different sources within 
   > enables the user to save an "entity" (e.g. "Airbus") for a given "entity type" (e.g. "Airframer"), which will then get recognized across the entire article database
 
 ### Current demo video
+[![Dev Update 001](http://img.youtube.com/vi/2dj04mvWEcc/0.jpg)](https://www.youtube.com/watch?v=2dj04mvWEcc "Dev Update 001")
 
 ## 🌱 I’m currently learning...
 - Frontend (React)
