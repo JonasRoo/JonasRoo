@@ -1,5 +1,26 @@
-### 🔭 I’m currently working on ...
-![avInsights](./avInsights_logo.png)
+## Hello there! 👋
+I'm Jonas, a fullstack developer & data scientist from Germany.
+
+## 🔭 I’m currently working on ...
+<img src="./avInsights_logo.png" alt="avInsights" width="100">
+A web-application that helps you better understand what's going on in your industry.
+It aggregates thousands of news articles from multiple different sources within the aviation industry, presents them in a searchable fashion and provides statistical, token-based analysis based on custom, user-provided tags.
+
+### Current Features
+- Automated daily scraping of news articles
+- Presenting those articles in an easily digestible fashion
+- Searching based on search tags, date-ranges, selected sources
+- "Hearting" / saving articles on a per-user basis
+- Fully managed user-authentication
+
+### Features in development
+- Tagging dashboard:
+  > enables the user to save an "entity" (e.g. "Airbus") for a given "entity type" (e.g. "Airframer"), which will then get recognized across the entire article database
+
+### Current demo video
+
+## 🌱 I’m currently learning...
+- Frontend (React)
 
 <!--
 **JonasRoo/JonasRoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
