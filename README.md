@@ -6,6 +6,11 @@ I'm Jonas, a fullstack developer & data scientist from Germany.
 A web-application that helps you better understand what's going on in your industry.
 It aggregates thousands of news articles from multiple different sources within the aviation industry, presents them in a searchable fashion and provides statistical, token-based analysis based on custom, user-provided tags.
 
+### Website
+As of 1/8/21, avInsights is publicly deployed under [av-insights.com](https://av-insights.com). Currently, all features require the user to be logged in, and signups are still disabled during development. <br>However, feel free to use the following demo account to take a look around!<br><br>
+> Username: githubDemo1<br>
+> Password: flyingAircraft548
+
 ### Current demo video
 [![Dev Update 001](http://img.youtube.com/vi/2dj04mvWEcc/0.jpg)](https://www.youtube.com/watch?v=2dj04mvWEcc "Dev Update 001")
 
