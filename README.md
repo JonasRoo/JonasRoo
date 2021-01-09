@@ -2,12 +2,14 @@
 I'm Jonas, a fullstack developer & data scientist from Germany.
 
 ## 🔭 I’m currently working on ...
-<img src="./avInsights_logo.png" alt="avInsights" width="100">
+<a href="https://av-insights.com" target="_blank" rel="noreferrer">
+<img src="./avInsights_logo.png" alt="avInsights" width="100" href="https://av-insights.com">
+</a>
 A web-application that helps you better understand what's going on in your industry.
 It aggregates thousands of news articles from multiple different sources within the aviation industry, presents them in a searchable fashion and provides statistical, token-based analysis based on custom, user-provided tags.
 
 ### Website
-As of 1/8/21, avInsights is publicly deployed under [av-insights.com](https://av-insights.com). Currently, all features require the user to be logged in, and signups are still disabled during development. <br>However, feel free to use the following demo account to take a look around!<br><br>
+As of 1/8/21, avInsights is publicly deployed under [av-insights.com](https://av-insights.com). Currently, all features require the user to be logged in, and signups are still disabled during development. <br>However, feel free to use the following demo account to take a look around!
 > Username: githubDemo1<br>
 > Password: flyingAircraft548
 
