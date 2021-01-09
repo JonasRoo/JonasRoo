@@ -5,6 +5,7 @@ I'm Jonas, a fullstack developer & data scientist from Germany.
 <a href="https://av-insights.com" target="_blank" rel="noreferrer">
 <img src="./avInsights_logo.png" alt="avInsights" width="100" href="https://av-insights.com">
 </a>
+<br>
 A web-application that helps you better understand what's going on in your industry.
 It aggregates thousands of news articles from multiple different sources within the aviation industry, presents them in a searchable fashion and provides statistical, token-based analysis based on custom, user-provided tags.
 
